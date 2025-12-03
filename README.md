@@ -10,10 +10,10 @@ Create a React App.
 
 ### STEP 2
 Open a terminal and run:
-  npm create vite@latest
-  cd simple-calculator
-  npm install
-  npm run dev
+  1. npm create vite@latest
+  2. cd simple-calculator
+  3. npm install
+  4. npm run dev
 
 ### STEP 3
 Inside the src/ folder, create a new file Calculator.jsx and define the basic structure.
